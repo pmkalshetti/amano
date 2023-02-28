@@ -1,6 +1,8 @@
 # Overview
 This directory contains code for our SCA 2022 paper "Local-scale Adaptation to Hand Shape Model for Accurate and Robust Hand Tracking".
 
+[Paper](https://diglib.eg.org/xmlui/bitstream/handle/10.1111/cgf14637/v41i8pp219-229.pdf)
+
 # Setup
 The below steps have been tested on Ubuntu 18.04
 
